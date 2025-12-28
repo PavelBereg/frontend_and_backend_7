@@ -12,3 +12,4 @@
 ![Sitemap](assets/sitemap.png)
 
 ### Ссылка на GitHub Pages:
+https://pavelbereg.github.io/frontend_and_backend_7/
